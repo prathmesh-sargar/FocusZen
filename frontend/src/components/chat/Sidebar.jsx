@@ -21,5 +21,4 @@ const Sidebar = ({ setActiveGroup }) => {
     </div>
   );
 };
-
 export default Sidebar;
