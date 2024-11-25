@@ -7,40 +7,55 @@
 **FocusZen** is a web application designed to help students and professionals achieve their productivity goals. Whether you're focusing on personal development or academic success, FocusZen provides the tools and environment to stay on track and unlock your full potential.
 
 ---
+![image](https://github.com/user-attachments/assets/2a5740f9-e7cd-4783-9120-53a46148025e)
+
 
 ## **🌟 Features**
 
 ### 🔍 **Focused Content Search**
 - Search for specific educational videos and articles.  
 - Filters out unnecessary distractions and recommendations to keep you focused.
+- ![image](https://github.com/user-attachments/assets/287220bf-ab90-4764-a7b2-ef126b1c42ca)
+
 
 ### 🤖 **Chatbot Assistance**
 - A 24/7 interactive chatbot offering:  
   - Productivity tips  
   - Study techniques  
   - Answers to common questions related to academics or productivity.
+  - ![image](https://github.com/user-attachments/assets/4f8dc04e-8a07-4050-8c3a-269afb8ed2e2)
+
 
 ### 💬 **Community Chat**
 - Collaborate and engage with peers through:  
   - Real-time group chats.  
   - Topic-based chat rooms for sharing knowledge and insights.
+  - ![image](https://github.com/user-attachments/assets/08730b0f-e559-4f2e-94aa-e96008a17357)
+
 
 ### 📰 **Blog Search**
 - Discover blogs on:  
   - Study-related topics.  
   - Productivity hacks.  
 - Curated content to enhance your learning experience.
+- ![image](https://github.com/user-attachments/assets/947c0a17-f898-46c8-8d50-89d5a150c33d)
+
 
 ### 📈 **Progress Tracker**
 - Visualize your improvement over time with:  
   - Dynamic progress bars.  
   - Personalized analytics dashboards.
+  - ![image](https://github.com/user-attachments/assets/fada44ef-6c30-42df-b705-efb18f6e9124)
+
+
 
 ### 🎯 **Personalized Challenges**
 - Create tailored learning plans.  
 - Stay motivated by unlocking achievements and rewards.
 
 ---
+
+
 
 ## **📂 Folder Structure**
 
