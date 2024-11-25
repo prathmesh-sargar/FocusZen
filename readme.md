@@ -15,7 +15,8 @@
 ### 🔍 **Focused Content Search**
 - Search for specific educational videos and articles.  
 - Filters out unnecessary distractions and recommendations to keep you focused.
-- ![image](https://github.com/user-attachments/assets/287220bf-ab90-4764-a7b2-ef126b1c42ca)
+  
+ ![image](https://github.com/user-attachments/assets/287220bf-ab90-4764-a7b2-ef126b1c42ca)
 
 
 ### 🤖 **Chatbot Assistance**
@@ -23,7 +24,8 @@
   - Productivity tips  
   - Study techniques  
   - Answers to common questions related to academics or productivity.
-  -![image](https://github.com/user-attachments/assets/f797a318-e1ea-427c-b3f3-bb7d7d3890e8)
+    
+  ![image](https://github.com/user-attachments/assets/f797a318-e1ea-427c-b3f3-bb7d7d3890e8)
 
 
 
@@ -31,7 +33,7 @@
 - Collaborate and engage with peers through:  
   - Real-time group chats.  
   - Topic-based chat rooms for sharing knowledge and insights.
-  - ![image](https://github.com/user-attachments/assets/08730b0f-e559-4f2e-94aa-e96008a17357)
+   ![image](https://github.com/user-attachments/assets/08730b0f-e559-4f2e-94aa-e96008a17357)
 
 
 ### 📰 **Blog Search**
@@ -39,14 +41,16 @@
   - Study-related topics.  
   - Productivity hacks.  
 - Curated content to enhance your learning experience.
-- ![image](https://github.com/user-attachments/assets/947c0a17-f898-46c8-8d50-89d5a150c33d)
+
+ ![image](https://github.com/user-attachments/assets/947c0a17-f898-46c8-8d50-89d5a150c33d)
 
 
 ### 📈 **Progress Tracker**
 - Visualize your improvement over time with:  
   - Dynamic progress bars.  
   - Personalized analytics dashboards.
-  - ![image](https://github.com/user-attachments/assets/fada44ef-6c30-42df-b705-efb18f6e9124)
+  
+   ![image](https://github.com/user-attachments/assets/fada44ef-6c30-42df-b705-efb18f6e9124)
 
 
 
