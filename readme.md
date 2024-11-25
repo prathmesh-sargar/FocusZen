@@ -109,7 +109,7 @@ FocusZen/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/FocusZen.git
+https://github.com/prathmesh-sargar/FocusZen.git
 cd FocusZen
 ```
 
