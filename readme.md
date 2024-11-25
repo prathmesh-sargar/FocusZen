@@ -23,7 +23,8 @@
   - Productivity tips  
   - Study techniques  
   - Answers to common questions related to academics or productivity.
-  - ![image](https://github.com/user-attachments/assets/4f8dc04e-8a07-4050-8c3a-269afb8ed2e2)
+  -![image](https://github.com/user-attachments/assets/f797a318-e1ea-427c-b3f3-bb7d7d3890e8)
+
 
 
 ### 💬 **Community Chat**
