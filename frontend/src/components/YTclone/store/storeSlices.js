@@ -4,7 +4,7 @@ const appSlice = createSlice({
   name: "app",
   initialState: {
     video: [],
-    category: "All",
+    category: "coding for beginners",
     username:  "" || localStorage.getItem("username") , // Added username to the initial state
   },
   reducers: {

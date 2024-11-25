@@ -32,7 +32,7 @@ const VideoContainer = () => {
   };
 
   useEffect(() => {
-    if (category === "JavaScript") {
+    if (category === "Development") {
       fetchVideosByCategory();
     } else {
       fetchVideosByCategory();
